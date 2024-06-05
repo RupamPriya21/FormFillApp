@@ -13,6 +13,10 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
+    <label for="address"><b>Address</b></label>
+    <input type="text" placeholder="Enter Address" name="address" id="address" required>
+    <br>
+
     <label for="phone no."><b>phone</b></label>
     <input type="text" placeholder="Enter phone number" name="phone" id="phone" required>
     <br>
